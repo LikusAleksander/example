@@ -23,5 +23,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# UWAGA: .terraform.lock.hcl POWINIEN być commitowany
-# (zapewnia spójność wersji providerów w zespole)
+# .terraform.lock.hcl SHOULD BE COMMITED
+
